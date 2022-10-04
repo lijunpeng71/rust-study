@@ -1,12 +1,7 @@
 [package]
-name = "learn_refcell"
+name = "learn_rc"
 version = "0.1.0"
-<<<<<<< Updated upstream
-authors = ["lijunpeng02 <lijunpeng02@meituan.com>"]
-edition = "2018"
-=======
 edition = "2021"
->>>>>>> Stashed changes
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
